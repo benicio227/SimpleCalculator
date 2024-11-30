@@ -1,5 +1,5 @@
 ## Sobre o projeto
-
+ 
 Este é um projeto simples de uma **calculadora em console**, desenvolvido em **C#** como parte de um estudo de **lógica de programação** e **fundamentos de backend**.
 O objetivo é praticar operações básicas de adição, subtração, multiplicação e divisão, além de treinar o uso de estruturas de controle e manipulação de
 entradas de usuário.
