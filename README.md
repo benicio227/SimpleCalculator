@@ -1,5 +1,5 @@
 ## About the Project
-
+ 
 This is a simple **console calculator** project, developed in **C#** as part of a study on **programming logic** and **backend fundamentals**.
 The goal is to practice basic operations like addition, subtraction, multiplication, and division, while also training the use of **control structures** and user input handling.
 
