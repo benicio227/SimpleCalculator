@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+
+# Ignorar arquivos de build
+*.exe
+*.dll
